@@ -14,5 +14,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akhmadjonuz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![wakatime](https://wakatime.com/badge/user/723f6494-42fe-4014-955c-a99fb3e1fc2c.svg)](https://wakatime.com/@723f6494-42fe-4014-955c-a99fb3e1fc2c)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
